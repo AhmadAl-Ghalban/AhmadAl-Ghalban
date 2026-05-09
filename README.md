@@ -1,73 +1,146 @@
-# 🌟 Welcome to My GitHub Profile!
-
-Hi there! I'm **Ahmad Alghalban**, a passionate **Full Stack Developer** specializing in building scalable, efficient, and modern applications. 🚀
-
-With a deep love for crafting clean, functional code, I excel in **JavaScript**, **React**, **Node.js**, and **microservices architecture**.
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadAl-Ghalban&show_icons=true&theme=radical&count_private=true" alt="Ahmad's GitHub Stats" style="margin: 10px;" />
+```
+░█████╗░██╗░░██╗███╗░░░███╗░█████╗░██████╗░
+██╔══██╗██║░░██║████╗░████║██╔══██╗██╔══██╗
+███████║███████║██╔████╔██║███████║██║░░██║
+██╔══██║██╔══██║██║╚██╔╝██║██╔══██║██║░░██║
+██║░░██║██║░░██║██║░╚═╝░██║██║░░██║██████╔╝
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░╚═╝╚═╝░░╚═╝╚═════╝░
+```
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAl-Ghalban&theme=radical" alt="Ahmad's GitHub Streak" style="margin: 10px;" />
+### `< Full Stack Developer />` · Building the web, one commit at a time.
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAl-Ghalban&layout=compact&theme=radical&langs_count=8&hide=ruby,dart,python,objective-c" alt="Ahmad's Top Languages" style="margin: 10px;" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=React+%7C+Next.js+%7C+Vue.js+%7C+Nuxt.js;NestJS+%7C+Node.js+%7C+Docker+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Technologies I Work With
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+
+## 👨‍💻 About Me
+
+```javascript
+const ahmad = {
+  name: "Ahmad Alghalban",
+  role: "Full Stack Developer",
+  location: "🌍 Building for the world",
+  focus: ["Scalable Apps", "Clean Code", "UX"],
+  stack: {
+    frontend: ["React", "Next.js", "Vue.js", "Nuxt.js", "React Native"],
+    backend:  ["Node.js", "NestJS", "Express", "Strapi"],
+    database: ["PostgreSQL", "MongoDB"],
+    devops:   ["Docker", "Git", "CI/CD"],
+  },
+  currentlyLearning: "Advanced microservices & cloud architecture",
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript&color=007ACC" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react&color=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Code-React_Native-blue?style=flat&logo=react&color=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Code-Node.js-green?style=flat&logo=node.js&color=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Code-Next.js-black?style=flat&logo=next.js&color=000000" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Code-Vue.js-green?style=flat&logo=vue.js&color=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Code-MongoDB-green?style=flat&logo=mongodb&color=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Code-PostgreSQL-blue?style=flat&logo=postgresql&color=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Code-Strapi-purple?style=flat&logo=strapi&color=8A2BE2" alt="Strapi" />
-  <img src="https://img.shields.io/badge/Code-Express-black?style=flat&logo=express&color=000000" alt="Express" />
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker&color=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Tools-Git-red?style=flat&logo=git&color=F05032" alt="Git" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmadAl-Ghalban&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAl-Ghalban&layout=compact&theme=tokyonight&langs_count=8&hide=ruby,dart,python,objective-c&border_radius=12&cache_seconds=86400"/>
 </div>
 
----
-
-## 🔥 Achievements
-
-- 🌍 Built and deployed scalable microservices-based applications using **Docker** and **PostgreSQL**.
-- 🏆 Published multiple production-ready applications using **React Native** and **Next.js**.
-- 🚀 Developed a globally used Islamic app, enhancing the user experience with **Strapi** as a backend CMS.
-- ✨ Continuously improving my skills in **Vue.js**, **Next.js**, and backend technologies.
-
----
-
-## 🌐 Connect With Me
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=AhmadAl-Ghalban&theme=tokyonight&border_radius=12" alt="streak stats"/>
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmad-alghalban-454382219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadAl-Ghalban&theme=tokyo-night&radius=12&hide_border=false" width="95%" alt="activity graph"/>
+</div>
+
+> ⚠️ **Private repo contributions not showing?** Go to GitHub **Settings → Public profile** → enable **"Show private contributions on profile"**
+
+---
+
+## ⚔️ Codewars
+
+<div align="center">
+  <a href="https://www.codewars.com/users/AhmadAl-Ghalban">
+    <img src="https://www.codewars.com/users/AhmadAl-Ghalban/badges/large" alt="Codewars Badge"/>
   </a>
-  <a href="mailto:ahmadalghalban05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <br/><br/>
+  <a href="https://www.codewars.com/users/AhmadAl-Ghalban">
+    <img src="https://img.shields.io/badge/Codewars-AhmadAl--Ghalban-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile"/>
   </a>
 </div>
 
 ---
 
-## 🌟 Fun Counter
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmadAl-Ghalban&label=Profile%20Views&color=green&style=flat" alt="Profile Counter" style="margin: 5px;" />
-  <img src="https://img.shields.io/github/followers/AhmadAl-Ghalban?label=Followers&style=social" alt="GitHub Followers" style="margin: 5px;" />
+
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmadAl-Ghalban&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies"/>
+</div>
+
+---
+
+## 🚀 Highlights
+
+| 🏅 Achievement | 📝 Details |
+|---|---|
+| 🌍 Microservices Architecture | Built & deployed scalable apps using Docker + PostgreSQL |
+| 📱 Mobile Development | Published production-ready apps with React Native |
+| 🕌 Islamic App | Developed a globally used Islamic app powered by Strapi CMS |
+| 🔁 Always Growing | Continuously improving across Vue.js, Next.js & backend systems |
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alghalban-454382219)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadalghalban05@gmail.com)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/AhmadAl-Ghalban)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AhmadAl-Ghalban&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/AhmadAl-Ghalban?label=Followers&style=for-the-badge&color=0e75b6)
+
+**"First, solve the problem. Then, write the code."** — John Johnson
+
 </div>
