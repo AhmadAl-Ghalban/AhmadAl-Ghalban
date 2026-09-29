@@ -60,7 +60,7 @@ npm install strapi-plugin-conditional-field-builder
 <p align="center">
   <a href="https://www.npmjs.com/package/strapi-plugin-conditional-field-builder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_on-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="View on npm"/></a>
   <a href="https://github.com/AhmadAl-Ghalban/strapi-plugin-conditional-field-builder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"/></a>
-  <img src="https://img.shields.io/badge/Strapi_Marketplace-Coming_Soon-8E75FF?style=for-the-badge&logo=strapi&logoColor=white" alt="Coming Soon"/>
+  <a href="https://community.strapi.io/marketplace/strapi-plugin-conditional-field-builder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Strapi_Marketplace-Listed-4945FF?style=for-the-badge&logo=strapi&logoColor=white" alt="Listed on the Strapi Marketplace"/></a>
 </p>
 
 ---
@@ -146,7 +146,7 @@ npm install strapi-plugin-conditional-field-builder
 | 🏅 Achievement | 📝 Details |
 |---|---|
 | 📈 Financial Trading Platforms | Building and maintaining trading platforms and internal systems at The Group Securities, Doha |
-| 📦 Published npm Package | Authored `strapi-plugin-conditional-field-builder`, a Strapi v5 custom field — coming soon to the Strapi Marketplace |
+| 📦 Published Strapi Plugin | Authored `strapi-plugin-conditional-field-builder`, a Strapi v5 custom field — now listed on the official [Strapi Marketplace](https://community.strapi.io/marketplace/strapi-plugin-conditional-field-builder) |
 | 🌍 Microservices Architecture | Built & deployed scalable apps using Docker + PostgreSQL |
 | 📱 Mobile Development | Published production-ready apps with React Native |
 | 🕌 Islamic App | Developed a globally used Islamic app powered by Strapi CMS |
