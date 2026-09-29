@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://ahmad-alghalban-portfolio.vercel.app/">
+<a href="https://ahmad-alghalban-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="./chat.svg" width="520" alt="Chat with Ahmad: Full Stack Developer in Doha, Qatar, building financial trading platforms"/>
 </a>
 
 ### `< Full Stack Developer />` · Building the web, one commit at a time.
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=React+%7C+Next.js+%7C+Vue.js+%7C+Nuxt.js;NestJS+%7C+Node.js+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=React+%7C+Next.js+%7C+Vue.js+%7C+Nuxt.js;NestJS+%7C+Node.js+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG"/></a>
 </p>
 
 </div>
@@ -45,10 +45,10 @@ const ahmad = {
 <h3 align="center">🧩 strapi-plugin-conditional-field-builder</h3>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/strapi-plugin-conditional-field-builder"><img src="https://img.shields.io/npm/v/strapi-plugin-conditional-field-builder?style=for-the-badge&logo=npm&color=CB3837&label=npm" alt="npm version"/></a>
-  <a href="https://www.npmjs.com/package/strapi-plugin-conditional-field-builder"><img src="https://img.shields.io/npm/dt/strapi-plugin-conditional-field-builder?style=for-the-badge&logo=npm&color=CB3837&label=downloads" alt="npm downloads"/></a>
-  <a href="https://github.com/AhmadAl-Ghalban/strapi-plugin-conditional-field-builder/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/strapi-plugin-conditional-field-builder?style=for-the-badge&color=2F2E8B&label=license" alt="License"/></a>
-  <a href="https://strapi.io"><img src="https://img.shields.io/badge/Strapi-v5-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi v5"/></a>
+  <a href="https://www.npmjs.com/package/strapi-plugin-conditional-field-builder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/v/strapi-plugin-conditional-field-builder?style=for-the-badge&logo=npm&color=CB3837&label=npm" alt="npm version"/></a>
+  <a href="https://www.npmjs.com/package/strapi-plugin-conditional-field-builder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/dt/strapi-plugin-conditional-field-builder?style=for-the-badge&logo=npm&color=CB3837&label=downloads" alt="npm downloads"/></a>
+  <a href="https://github.com/AhmadAl-Ghalban/strapi-plugin-conditional-field-builder/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/npm/l/strapi-plugin-conditional-field-builder?style=for-the-badge&color=2F2E8B&label=license" alt="License"/></a>
+  <a href="https://strapi.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Strapi-v5-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi v5"/></a>
 </p>
 
 > A **Strapi v5 custom field**: pick an option from a dropdown and it renders a tailored set of dynamic conditional sub-fields — an embedded form-builder, stored as a single JSON value.
@@ -58,8 +58,8 @@ npm install strapi-plugin-conditional-field-builder
 ```
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/strapi-plugin-conditional-field-builder"><img src="https://img.shields.io/badge/View_on-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="View on npm"/></a>
-  <a href="https://github.com/AhmadAl-Ghalban/strapi-plugin-conditional-field-builder"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"/></a>
+  <a href="https://www.npmjs.com/package/strapi-plugin-conditional-field-builder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View_on-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="View on npm"/></a>
+  <a href="https://github.com/AhmadAl-Ghalban/strapi-plugin-conditional-field-builder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub"/></a>
   <img src="https://img.shields.io/badge/Strapi_Marketplace-Coming_Soon-8E75FF?style=for-the-badge&logo=strapi&logoColor=white" alt="Coming Soon"/>
 </p>
 
@@ -85,7 +85,7 @@ npm install strapi-plugin-conditional-field-builder
 ## ⚔️ Codewars
 
 <div align="center">
-  <a href="https://www.codewars.com/users/AhmadAl-Ghalban">
+  <a href="https://www.codewars.com/users/AhmadAl-Ghalban" target="_blank" rel="noopener noreferrer">
     <img src="https://www.codewars.com/users/AhmadAl-Ghalban/badges/large" alt="Codewars Badge"/>
   </a>
 </div>
@@ -157,11 +157,11 @@ npm install strapi-plugin-conditional-field-builder
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://ahmad-alghalban-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ahmad-alghalban-454382219"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ahmad-alghalban-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ahmad-alghalban-454382219" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ahmadalghalban05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.npmjs.com/~ahmad-alghalban"><img src="https://img.shields.io/badge/npm-AhmadAl--Ghalban-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
-  <a href="https://www.codewars.com/users/AhmadAl-Ghalban"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
+  <a href="https://www.npmjs.com/~ahmad-alghalban" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/npm-AhmadAl--Ghalban-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
+  <a href="https://www.codewars.com/users/AhmadAl-Ghalban" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
 </p>
 
 ---
