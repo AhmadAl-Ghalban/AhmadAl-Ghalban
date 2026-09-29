@@ -15,6 +15,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=React+%7C+Next.js+%7C+Vue.js+%7C+Nuxt.js;NestJS+%7C+Node.js+%7C+Docker+%7C+PostgreSQL" alt="Typing SVG"/></a>
 </p>
 
+<a href="https://ahmad-alghalban-portfolio.vercel.app/">
+  <img src="./chat.svg" width="520" alt="Chat with Ahmad: Full Stack Developer in Doha, Qatar, building financial trading platforms"/>
+</a>
+
 </div>
 
 ---
@@ -26,13 +30,14 @@
 ```javascript
 const ahmad = {
   name: "Ahmad Alghalban",
-  role: "Full Stack Developer",
-  location: "🌍 Building for the world",
+  role: "Full Stack Developer @ The Group Securities",
+  location: "📍 Doha, Qatar",
+  building: ["Financial trading platforms", "Internal business systems", "Mobile apps"],
   focus: ["Scalable Apps", "Clean Code", "UX"],
   stack: {
     frontend: ["React", "Next.js", "Vue.js", "Nuxt.js", "React Native"],
-    backend:  ["Node.js", "NestJS", "Express", "Strapi"],
-    database: ["PostgreSQL", "MongoDB"],
+    backend:  ["Node.js", "NestJS", "Express", "Strapi", "GraphQL"],
+    database: ["PostgreSQL", "MongoDB", "Redis"],
     devops:   ["Docker", "Git", "CI/CD"],
   },
   currentlyLearning: "Advanced microservices & cloud architecture",
@@ -84,8 +89,6 @@ npm install strapi-plugin-conditional-field-builder
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadAl-Ghalban&theme=tokyo-night&radius=12&hide_border=false" width="95%" alt="activity graph"/>
 </div>
 
-> ⚠️ **Private repo contributions not showing?** Go to GitHub **Settings → Public profile** → enable **"Show private contributions on profile"**
-
 ---
 
 ## ⚔️ Codewars
@@ -93,10 +96,6 @@ npm install strapi-plugin-conditional-field-builder
 <div align="center">
   <a href="https://www.codewars.com/users/AhmadAl-Ghalban">
     <img src="https://www.codewars.com/users/AhmadAl-Ghalban/badges/large" alt="Codewars Badge"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.codewars.com/users/AhmadAl-Ghalban">
-    <img src="https://img.shields.io/badge/Codewars-AhmadAl--Ghalban-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile"/>
   </a>
 </div>
 
@@ -124,9 +123,11 @@ npm install strapi-plugin-conditional-field-builder
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 <h3 align="center">🚀 DevOps &amp; Tools</h3>
@@ -153,6 +154,7 @@ npm install strapi-plugin-conditional-field-builder
 
 | 🏅 Achievement | 📝 Details |
 |---|---|
+| 📈 Financial Trading Platforms | Building and maintaining trading platforms and internal systems at The Group Securities, Doha |
 | 📦 Published npm Package | Authored `strapi-plugin-conditional-field-builder`, a Strapi v5 custom field — coming soon to the Strapi Marketplace |
 | 🌍 Microservices Architecture | Built & deployed scalable apps using Docker + PostgreSQL |
 | 📱 Mobile Development | Published production-ready apps with React Native |
@@ -164,6 +166,7 @@ npm install strapi-plugin-conditional-field-builder
 ## 🌐 Let's Connect
 
 <p align="center">
+  <a href="https://ahmad-alghalban-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ahmad-alghalban-454382219"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ahmadalghalban05@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.npmjs.com/~ahmad-alghalban"><img src="https://img.shields.io/badge/npm-AhmadAl--Ghalban-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
